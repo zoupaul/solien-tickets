@@ -133,6 +133,15 @@ const App = () => {
           <div id="link4" className="container faq card">
             <h1 style={{ padding: "0 0 24px 0" }}>FAQ</h1>
             <div>
+              <h4>What is the minting price?</h4>
+              <p>
+              The minting price is 20 SOL per Astro Stud Ticket.
+              </p>
+
+              <hr />
+            </div>
+            
+            <div>
               <h4>What restrictions exist in Filly selection, if any?</h4>
               <p>
               1/1 Fillies are excluded from the Astro Stud breeding tickets and can be handled on a case-by-case basis, all other Fillies are fair game!
