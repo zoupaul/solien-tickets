@@ -56,7 +56,7 @@ export const welcomeSettings: WelcomeSettings = {
 
   // Countdown Timer
   countdownEnable: true,
-  countdownTo: date("11 JAN 2022 12:00:00 PST"),
+  countdownTo: date("11 Jan 2022 12:00:00 PST"),
   //Example date below
   // date('29 2021 00:00:00 GMT')
 
