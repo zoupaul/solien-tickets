@@ -61,7 +61,7 @@ export const welcomeSettings: WelcomeSettings = {
   // date('29 2021 00:00:00 GMT')
 
   // showprice
-  showPrice: true,
+  showPrice: false,
 
   //Enable Custom HTML
   enableCustomHTML: false,
